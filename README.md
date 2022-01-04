@@ -23,7 +23,9 @@ Design: [Mama-mia] Ana Blozneliene
 - CSS animations
 - fontawesome icons
 - CSS import
-- JS import-export
+- JS import-expor
+- 12 column grid
+
 
 ## Authors
 
