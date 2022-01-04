@@ -9,7 +9,7 @@
 
 This project is for learning purpose.
 
-Site published at https://github.com/onablo/11-mama-mia.git
+Site published at https://onablo.github.io/11-mama-mia/
 
 Design: [Mama-mia] Ana Blozneliene
 
