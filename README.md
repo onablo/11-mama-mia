@@ -9,7 +9,7 @@
 
 This project is for learning purpose.
 
-Site published at https://github.com/onablo/11-mama-mia.git
+Site published at https://onablo.github.io/11-mama-mia/
 
 Design: [Mama-mia] Ana Blozneliene
 
@@ -23,7 +23,9 @@ Design: [Mama-mia] Ana Blozneliene
 - CSS animations
 - fontawesome icons
 - CSS import
-- JS import-export
+- JS import-expor
+- 12 column grid
+
 
 ## Authors
 
